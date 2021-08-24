@@ -1,0 +1,14 @@
+[submodule "hacdan.org/themes/themes/hello-friend-ng"]
+	path = hacdan.org/themes/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "hacdan.org/themes/hello-friend-ng"]
+	path = hacdan.org/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "hacdan.org/static/hacdan.org"]
+	path = hacdan.org/static/hacdan.org
+	url = git@github.com:HacDan/hacdan.org.git
+	branch = master
+[submodule "hacdan.org/public"]
+	path = hacdan.org/public
+	url = git@github.com:HacDan/hacdan.org.git
+	branch = master

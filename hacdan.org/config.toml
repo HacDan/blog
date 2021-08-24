@@ -1,0 +1,5 @@
+baseURL = 'https://hacdan.org/'
+languageCode = 'en-us'
+title = 'hacdan.org'
+theme = 'hello-friend-ng'
+paginate = 10
