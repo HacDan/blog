@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'hacdan.org'
 theme = 'hello-friend-ng'
 paginate = 10
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"

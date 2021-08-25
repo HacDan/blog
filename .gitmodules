@@ -12,3 +12,7 @@
 	path = hacdan.org/public
 	url = git@github.com:HacDan/hacdan.org.git
 	branch = master
+[submodule "hacdan.org/content/resume"]
+	path = hacdan.org/content/resume
+	url = git@github.com:HacDan/digital-resume.git
+	branch = gh-pages
