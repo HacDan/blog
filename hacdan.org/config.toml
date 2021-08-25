@@ -4,7 +4,51 @@ title = 'hacdan.org'
 theme = 'hello-friend-ng'
 paginate = 10
 
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+enableRobotsTXT = true
+enableGitInfo = false
+
+[author]
+  name = "David McClellan"
+
+[[menu.main]]
+  identifier = "blog"
+  name       = "Blog"
+  url        = "/posts"
+[[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume/readme/"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  
+  [params.footer]
+    trademark = false
+    rss = true
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+    ]
+  [params.logo]
+    logoMark     = "#"
+    logoText     = "> cd /Users/HacDan/"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/_hacdan"
+
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/hacdan"
