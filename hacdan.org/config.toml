@@ -4,6 +4,9 @@ title = 'hacdan.org'
 theme = 'hello-friend-ng'
 paginate = 10
 
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
 enableRobotsTXT = true
 enableGitInfo = false
 
@@ -43,6 +46,7 @@ enableGitInfo = false
     logoMark     = "#"
     logoText     = "> cd /Users/HacDan/"
     logoHomeLink = "/"
+    logoCursorColor = "#67A2C9"
 
   [[params.social]]
     name = "twitter"

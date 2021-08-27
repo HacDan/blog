@@ -34,7 +34,7 @@ For my life, this seems like a good fit so far, and I’m going to order more, f
 When it comes to taste, it is honestly pretty bland. The description of sweet oatmeal or pancake batter are pretty close. So far I haven’t noticed any grittyness which was one of the things I was worried about. It goes down pretty similar to a milk shake, just don’t expect it to taste like one! As I said the taste is pretty bland, but my taste buds have become accustom already to this, and while I can’t say I’m looking forward to it, it’s satisfying to the point where I’m going to keep going.
 
 
-# Texturea
+# Texture
 
 
 As I said above, the texture isn’t anywhere near as gritty as expected, but there is a bit. It is very much like a milkshake, which is good. The one thing I can recommend is letting it sit over night in the fridge before consuming. this has worked out really well so far, and I’m honestly not willing to try it any other way at this time. If it ain’t broke don’t fix it amirite?
@@ -46,7 +46,7 @@ As I said above, the texture isn’t anywhere near as gritty as expected, but th
 For moving the Soylent around, I’m using a Nalgene wide mouth bottle. This holds exactly what I need for during the day. I was bringing the pitcher back and forth to work, but I found that it doesn’t quite seal all the way, so that wasn’t the greatest idea. It worked, but I wouldn’t recommend it if you can avoid it.
 
 
-# Thought So Far
+# Thoughts So Far
 
 
 For now, this will be my fuel for the day. I’m going to write up another post for next Tuesday to give my thoughts on having been on Soylent for a week, and to see if I feel anything is missing. I’ve thought about at least adding a protein powder, but we’ll see. For now though, things will stay just pure Soylent.
