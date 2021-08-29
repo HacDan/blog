@@ -4,6 +4,8 @@ title = 'hacdan.org'
 theme = 'hello-friend-ng'
 paginate = 10
 
+googleAnalytics = "UA-78885046-1"
+
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
@@ -31,7 +33,12 @@ enableGitInfo = false
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-
+ 
+  [params.favicon.color]
+    mask = "#ffffff"
+    msapplicaiton = "#ffffff"
+    theme = "ffffff"
+    
   [params.footer]
     trademark = false
     rss = true
