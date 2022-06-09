@@ -50,8 +50,8 @@ enableGitInfo = false
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
     ]
   [params.logo]
-    logoMark     = "#"
-    logoText     = "> cd /Users/HacDan/"
+    logoMark     = ">"
+    logoText     = "$ cd /Users/hacdan/"
     logoHomeLink = "/"
     logoCursorColor = "#67A2C9"
 
@@ -63,3 +63,7 @@ enableGitInfo = false
   [[params.social]]
     name = "github"
     url = "https://github.com/hacdan"
+  
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/_davidmcclellan/"
