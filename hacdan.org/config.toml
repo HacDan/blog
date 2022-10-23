@@ -33,12 +33,12 @@ enableGitInfo = false
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
- 
+
   [params.favicon.color]
     mask = "#ffffff"
     msapplicaiton = "#ffffff"
     theme = "ffffff"
-    
+
   [params.footer]
     trademark = false
     rss = true
@@ -63,7 +63,7 @@ enableGitInfo = false
   [[params.social]]
     name = "github"
     url = "https://github.com/hacdan"
-  
+
   [[params.social]]
     name = "instagram"
     url = "https://www.instagram.com/_davidmcclellan/"

@@ -9,7 +9,7 @@ tags:
   - decisions
   - life choices
 ---
-[![Underground Kingz - Super Tight Album Cover](/uksupertight.jpg)](https://youtu.be/Be-hXxc5yN0)
+{{< image src="/uksupertight-new.jpg" alt="Underground Kingz - Super Tight Album Cover" position="center">}}
 Hear me out. I know, cheesy title to say the least, but it's what came to mind when I decided I wanted to write about this quandry of mine.
 
 ## Front(end) Back(end), or Side to Side?
@@ -30,6 +30,6 @@ Anyway, I wrote an app to get a free tablet because free tablet, duh? I learned 
 
 With all that said, that leaves one question unanswered: Why Android? Sure, I could easily say I have some experience in it, therefore it's the logical choice. Or I could say that I've been an Android enthusiast for quite some time. I even developed off an Android tablet for a few years for goodness sake. But in reaility, it's because I just like their development workflow better. I've played around with Apple's setup. Swift is a great language, much better than working in Java, but Kotlin seems to be pretty good, too. While I don't have more than a couple of hours of experience writing it, I'd say it's a suitable replacement for Java. Here's hoping I can avoid getters and setters. We'll see. I'm not that far into my journey.
 
-If you'd like to follow along I'll be posting my code on [GitHub](https://github.com/hacdan) and will be blogging about the my journey.
+If you'd like to follow along I'll be posting my code on [GitHub](https://github.com/hacdan) and will be blogging about it here.
 
 Until next time!
