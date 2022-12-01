@@ -1,5 +1,5 @@
 ---
-title: "Ultrawide Spoon"
+title: "Ultra-wide Spoon"
 date: 2022-11-30T20:53:03-05:00
 toc: false
 images:
@@ -9,13 +9,15 @@ tags:
   - productivity
 ---
 
-## Ultrawide monitors
+## Ultra-wide monitors
 With the big push for ultra-wide monitors, and the M-Series MacBook Air only supporting one external monitor, I chose to change to an ultra-wide monitor at my desk. I'm not gonna lie, I hated it at first. It seemed to be such a waste of space when fullscreening apps, and as we all know, window management on macOS is lackluster at best, unless you're full screening apps, which is something I rarely need to do. 
 
 Enter [Hammerspoon](https://hammerspoon.org)
 
 ## Window Management, But With A Twist
-Hammerspoon is far from just a window management addon for macOS. In fact I would say that it isn't specifically and even really taylored for managment windows on MacOS. Hammerspoon markets itself as a "...a tool for powerful automation of macOS. At it's core is just a bridge between the operating system and a Lua scripting engine." So, why am I bringing it up when talking about monitors and window management? Because, it can, with a little work, be your one stop shop for automations on macOS!
+Hammerspoon is far from just a window management addon for macOS. In fact I would say that it isn't specifically and even really taylored for managment windows on MacOS. Hammerspoon markets itself as a 
+>...a tool for powerful automation of macOS. At it's core is just a bridge between the operating system and a Lua scripting engine.
+So, why am I bringing it up when talking about monitors and window management? Because, it can, with a little work, be your one stop shop for automations on macOS!
 
 You see, as Hammerspoon mentions on it's website, Hammerspoon is an interface for the macOS API's via Lua. Which is just plain awesome. The main uses I've used it for have been Window managemnt, but I've only scratched the surface of it's powers! 
 
